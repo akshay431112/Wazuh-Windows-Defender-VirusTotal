@@ -1,0 +1,1 @@
+Notes for GPO deployment (placeholders only).
