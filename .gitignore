@@ -1,0 +1,13 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+
+# Secrets (never commit)
+*.key
+*.pem
+*.p12
+*.pfx
+.env
+secrets/
